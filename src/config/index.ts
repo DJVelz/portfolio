@@ -14,8 +14,8 @@ export const SITE_CONFIG: SiteConfig = {
   ],
   socialLinks: [
     { text: "Twitter", href: "https://github.com/immois/astro-zen" },
-    { text: "LinkedIn", href: "https://github.com/immois/astro-zen" },
-    { text: "Github", href: "https://github.com/immois/astro-zen" },
+    { text: "LinkedIn", href: "https://www.linkedin.com/in/dereck-velez-2070231a7" },
+    { text: "Github", href: "https://github.com/DJVelz" },
     { text: "Youtube", href: "https://github.com/immois/astro-zen" },
     { text: "Dribbble", href: "https://github.com/immois/astro-zen" },
   ],
@@ -28,7 +28,7 @@ export const SITE_CONTENT: SiteContent = {
     name: "Dereck Velez Matias",
     specialty: "Fullstack Software Developer",
     summary:
-      "Developer based in Florida, USA. I specialize in UI design, web and mobile application development and maintenance.",
+      "Developer based in Winter Haven, Florida, USA. I specialize in UI design, web and mobile application development and maintenance.",
     email: "example@email.com",
   },
   experience: [
