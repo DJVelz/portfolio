@@ -43,10 +43,10 @@ export const SITE_CONTENT: SiteContent = {
   ],
   projects: [
     {
-      name: "Spotifu Music",
-      summary: "A music streaming app that emulates Spotify's core features.",
-      linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
+      name: "Nerdvana",
+      summary: "A mock e-commerce website to simulate buying pop-culture items.",
+      linkPreview: "/https://nerdvana-eight.vercel.app/",
+      linkSource: "/https://github.com/DJVelz/Nerdvana",
       image: "/spotifu.png",
     },
     {
