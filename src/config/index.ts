@@ -47,7 +47,7 @@ export const SITE_CONTENT: SiteContent = {
       summary: "A mock e-commerce website to simulate buying pop-culture items.",
       linkPreview: "/https://nerdvana-eight.vercel.app/",
       linkSource: "/https://github.com/DJVelz/Nerdvana",
-      image: "/spotifu.png",
+      image: "/nerdvana.png",
     },
     {
       name: "Shopp App",
