@@ -57,11 +57,11 @@ export const SITE_CONTENT: SiteContent = {
       image: "/shopify-clon.png",
     },
     {
-      name: "ClonTagram",
-      summary: "A social network that replicates the features of Instagram",
+      name: "PlayStats",
+      summary: "A python script that analyzes the top 100 most played games on Steam.",
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
-      image: "/clone-ig.png",
+      image: "/playstats.png",
     },
   ],
   about: {
