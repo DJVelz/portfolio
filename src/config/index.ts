@@ -59,8 +59,8 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "PlayStats",
       summary: "A python script that analyzes the top 100 most played games on Steam.",
-      linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
+      linkPreview: "https://github.com/DJVelz/PlayStats",
+      linkSource: "https://github.com/DJVelz/PlayStats",
       image: "/playstats.png",
     },
   ],
