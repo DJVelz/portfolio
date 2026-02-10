@@ -50,7 +50,7 @@ export const SITE_CONTENT: SiteContent = {
       image: "/nerdvana.png",
     },
     {
-      name: "Shopp App",
+      name: "Orlando TechShare",
       summary: "An e-commerce platform that replicates Shopify's key features.",
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
