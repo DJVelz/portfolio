@@ -54,7 +54,7 @@ export const SITE_CONTENT: SiteContent = {
       summary: "An e-commerce platform that replicates Shopify's key features.",
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
-      image: "/shopify-clon.png",
+      image: "/techshare.png",
     },
     {
       name: "PlayStats",
