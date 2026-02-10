@@ -66,9 +66,7 @@ export const SITE_CONTENT: SiteContent = {
   ],
   about: {
     description: `
-      Hi, I’m Alejandro Múnez, a passionate Mobile and Web Developer with a knack for crafting seamless digital experiences. With a strong background in both Android and iOS development, as well as front-end web technologies, I thrive in the intersection where creativity meets technology.
-
-      Over the years, I’ve honed my skills in building robust, user-friendly applications that not only meet the needs of users but also push the boundaries of what’s possible. My projects range from innovative mobile applications to responsive web designs, all with a focus on performance, security, and scalability.
+      Hi, I’m Dereck Velez, a passionate Software Developer focused on building practical, user-driven applications. I work primarily with Java, Python, and modern JavaScript frameworks, and I enjoy taking projects from idea to working product. I’m especially interested in full-stack development, system design at a small scale, and learning how real-world software evolves through iteration and feedback.
     `,
     image: "/alejandro-big.jpg",
   },
