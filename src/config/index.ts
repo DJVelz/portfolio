@@ -51,7 +51,7 @@ export const SITE_CONTENT: SiteContent = {
     },
     {
       name: "Orlando TechShare",
-      summary: "An e-commerce platform that replicates Shopify's key features.",
+      summary: "A platform for managing loaned devices.",
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
       image: "/techshare.png",
