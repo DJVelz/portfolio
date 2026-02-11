@@ -6,7 +6,7 @@ export const SITE_CONFIG: SiteConfig = {
   description:
     "Software Engineer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
   lang: "en",
-  siteLogo: "/",
+  siteLogo: "/profile.jpeg",
   navLinks: [
     { text: "Experience", href: "#experience" },
     { text: "Projects", href: "#projects" },
@@ -68,7 +68,7 @@ export const SITE_CONTENT: SiteContent = {
     description: `
       Hi, I’m Dereck Velez, a passionate Software Developer focused on building practical, user-driven applications. I work primarily with Java, Python, and modern JavaScript frameworks, and I enjoy taking projects from idea to working product. I’m especially interested in full-stack development, system design at a small scale, and learning how real-world software evolves through iteration and feedback.
     `,
-    image: "/",
+    image: "/profile.jpeg",
   },
 };
 
