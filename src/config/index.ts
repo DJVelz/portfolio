@@ -52,8 +52,8 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "Orlando TechShare",
       summary: "A platform for managing loaned devices.",
-      linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
+      linkPreview: "https://github.com/TechShare-Group/device-loan-app",
+      linkSource: "https://github.com/TechShare-Group/device-loan-app",
       image: "/techshare.png",
     },
     {
